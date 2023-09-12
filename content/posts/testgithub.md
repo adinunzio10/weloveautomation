@@ -1,1 +1,7 @@
-does this auto upload to my server?
+---
+title: "Using Hugo the proper way... through git"
+date: 2023-09-12
+draft: true
+---
+
+This is a test to see how uploading files via github impact my blog
